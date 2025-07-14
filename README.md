@@ -1,10 +1,10 @@
-Kullanıcıların WhatsApp üzerinden kargo durumlarını sorgulamasına olanak tanıyan bir sohbet botudur. Kullanıcı, WhatsApp'ta mesaj göndererek kargo bilgilerini alabilir. Projede aşağıdaki özellikler yer almaktadır:
+Kullanıcıların WhatsApp üzerinden kargo durumlarını sorgulamasına olanak tanıyan bir sohbet botudur. Kullanıcı, WhatsApp'ta mesaj göndererek kargo bilgilerini alabilir. Projede aşağıdaki özellikler yer almaktadır: <br>
 
--Django ile geliştirilen backend
--Twilio API üzerinden gelen mesajları webhook aracılığıyla karşılama
--Google Gemini API ile gelen mesajlara anlamlı yanıt üretme
--Kargo takibi, teslimat durumu güncellemeleri (ör. “teslim edildi”)
--Kullanıcı dili tespiti 
+-Django ile geliştirilen backend <br>
+-Twilio API üzerinden gelen mesajları webhook aracılığıyla karşılama <br>
+-Google Gemini API ile gelen mesajlara anlamlı yanıt üretme <br>
+-Kargo takibi, teslimat durumu güncellemeleri (ör. “teslim edildi”) <br>
+-Kullanıcı dili tespiti <br>
 
 ## Özellikler <br>
 📦 Kargo durumunu sorgulama <br>
